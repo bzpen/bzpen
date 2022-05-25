@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @bzpen
 - 👀 I’m interested in vue -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=wangrunlin&count_private=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=wangrunlin&count_private=true" /> -->
 
 ## Hi 👋 , I'm [pen](http://bzpen.com/)
 - 👀 I’m interested in vue
